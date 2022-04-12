@@ -1,0 +1,28 @@
+{
+  "name": "reactapp",
+  "version": "1.0.0",
+  "description": "react app to learn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeoSerena/reactApp.git"
+  },
+  "keywords": [
+    "react",
+    "javascript"
+  ],
+  "author": "Leo Serena",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeoSerena/reactApp/issues"
+  },
+  "homepage": "https://github.com/LeoSerena/reactApp#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15",
+    "pug": "^3.0.2",
+    "winston": "^3.7.2"
+  }
+}
