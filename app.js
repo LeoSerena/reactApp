@@ -12,6 +12,7 @@ app.set('views','./views');
 
 //uses
 app.use('/utils', express.static('utils'))
+app.use('/css', express.static('css'))
 
 app.get('/', (req, res) => {
     res.render(`index.pug`)
